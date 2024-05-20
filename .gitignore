@@ -1,0 +1,14 @@
+#. gitignore
+# 깃으로 관리하지 않을 파일 저장
+.classpath
+.project
+.settings/
+.target/
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
+
